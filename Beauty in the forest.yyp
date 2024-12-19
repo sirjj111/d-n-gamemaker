@@ -26,6 +26,7 @@
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"fapsu","folderPath":"folders/Sprites/fapsu.yy","name":"fapsu","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"npc16","folderPath":"folders/Sprites/npc16.yy","name":"npc16","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"icon","folderPath":"folders/Sprites/icon.yy","name":"icon","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"kysi","folderPath":"folders/Sprites/kysi.yy","name":"kysi","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"npc1","folderPath":"folders/Sprites/npc1.yy","name":"npc1","resourceType":"GMFolder","resourceVersion":"2.0",},
