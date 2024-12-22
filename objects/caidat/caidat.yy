@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object28",
+  "%Name":"caidat",
   "eventList":[],
   "managed":true,
-  "name":"Object28",
+  "name":"caidat",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite116",
-    "path":"sprites/Sprite116/Sprite116.yy",
+    "name":"Sprite114",
+    "path":"sprites/Sprite114/Sprite114.yy",
   },
   "spriteMaskId":null,
   "visible":true,

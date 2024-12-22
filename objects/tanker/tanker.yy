@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object30",
+  "%Name":"tanker",
   "eventList":[],
   "managed":true,
-  "name":"Object30",
+  "name":"tanker",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite118",
-    "path":"sprites/Sprite118/Sprite118.yy",
+    "name":"Sprite117",
+    "path":"sprites/Sprite117/Sprite117.yy",
   },
   "spriteMaskId":null,
   "visible":true,

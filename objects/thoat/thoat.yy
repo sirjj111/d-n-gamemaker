@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object21",
-  "eventList":[],
+  "%Name":"thoat",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object21",
+  "name":"thoat",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite108",
-    "path":"sprites/Sprite108/Sprite108.yy",
+    "name":"Sprite113",
+    "path":"sprites/Sprite113/Sprite113.yy",
   },
   "spriteMaskId":null,
   "visible":true,

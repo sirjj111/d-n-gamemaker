@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object31",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"chuchonnhanvat",
+  "eventList":[],
   "managed":true,
-  "name":"Object31",
+  "name":"chuchonnhanvat",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite119",
-    "path":"sprites/Sprite119/Sprite119.yy",
+    "name":"Sprite108",
+    "path":"sprites/Sprite108/Sprite108.yy",
   },
   "spriteMaskId":null,
   "visible":true,
