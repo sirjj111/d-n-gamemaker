@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object24",
+  "%Name":"tengame",
   "eventList":[],
   "managed":true,
-  "name":"Object24",
+  "name":"tengame",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite112",
-    "path":"sprites/Sprite112/Sprite112.yy",
+    "name":"Sprite110",
+    "path":"sprites/Sprite110/Sprite110.yy",
   },
   "spriteMaskId":null,
   "visible":true,

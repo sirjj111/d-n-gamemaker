@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object27",
+  "%Name":"phapsu",
   "eventList":[],
   "managed":true,
-  "name":"Object27",
+  "name":"phapsu",
   "overriddenProperties":[],
   "parent":{
     "name":"sanhcho1",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite115",
-    "path":"sprites/Sprite115/Sprite115.yy",
+    "name":"Sprite118",
+    "path":"sprites/Sprite118/Sprite118.yy",
   },
   "spriteMaskId":null,
   "visible":true,

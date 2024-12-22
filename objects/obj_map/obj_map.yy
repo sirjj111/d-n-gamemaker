@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object20",
-  "eventList":[],
+  "%Name":"obj_map",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object20",
+  "name":"obj_map",
   "overriddenProperties":[],
   "parent":{
-    "name":"sanhcho1",
-    "path":"folders/Objects/sanhcho1.yy",
+    "name":"thaotac",
+    "path":"folders/Objects/thaotac.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Sprite107",
-    "path":"sprites/Sprite107/Sprite107.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
