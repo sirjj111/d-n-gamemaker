@@ -59,7 +59,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Beauty in the forest",
   "resources":[
@@ -195,6 +195,7 @@
     {"id":{"name":"right_tanker","path":"sprites/right_tanker/right_tanker.yy",},},
     {"id":{"name":"sp_dacotho","path":"sprites/sp_dacotho/sp_dacotho.yy",},},
     {"id":{"name":"sp_datgachlo","path":"sprites/sp_datgachlo/sp_datgachlo.yy",},},
+    {"id":{"name":"sp_npc","path":"sprites/sp_npc/sp_npc.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_wall1","path":"sprites/spr_wall1/spr_wall1.yy",},},
     {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},},
@@ -233,6 +234,7 @@
     {"id":{"name":"tl_datxau","path":"tilesets/tl_datxau/tl_datxau.yy",},},
     {"id":{"name":"tl_gach","path":"tilesets/tl_gach/tl_gach.yy",},},
     {"id":{"name":"tl_mo","path":"tilesets/tl_mo/tl_mo.yy",},},
+    {"id":{"name":"tl_npc","path":"tilesets/tl_npc/tl_npc.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

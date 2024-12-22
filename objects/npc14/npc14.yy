@@ -32,5 +32,5 @@
     "path":"sprites/mvdown_npc14/mvdown_npc14.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
