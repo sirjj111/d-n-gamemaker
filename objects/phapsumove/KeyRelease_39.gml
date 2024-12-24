@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 2777D039
 /// @DnDArgument : "spriteind" "right_phapsu"
 /// @DnDSaveInfo : "spriteind" "right_phapsu"
-sprite_index = right_phapsu;
+sprite_index = phai_phapsu;
 image_index = 0;

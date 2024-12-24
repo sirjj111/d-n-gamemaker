@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite108",
-    "path":"sprites/Sprite108/Sprite108.yy",
+    "name":"chonhanvat",
+    "path":"sprites/chonhanvat/chonhanvat.yy",
   },
   "spriteMaskId":null,
   "visible":true,

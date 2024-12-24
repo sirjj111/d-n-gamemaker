@@ -16,5 +16,5 @@ speed = 3;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "kysi_moveright"
 /// @DnDSaveInfo : "spriteind" "kysi_moveright"
-sprite_index = kysi_moveright;
+sprite_index = sangphai_kysi;
 image_index += 0;

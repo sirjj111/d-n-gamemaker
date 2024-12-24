@@ -16,5 +16,5 @@ speed = 3;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "moveup_phapsu"
 /// @DnDSaveInfo : "spriteind" "moveup_phapsu"
-sprite_index = moveup_phapsu;
+sprite_index = dilen_phapsu;
 image_index += 0;

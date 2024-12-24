@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 57B1A8D3
 /// @DnDArgument : "spriteind" "kysi_left"
 /// @DnDSaveInfo : "spriteind" "kysi_left"
-sprite_index = kysi_left;
+sprite_index = trai_knight;
 image_index = 0;

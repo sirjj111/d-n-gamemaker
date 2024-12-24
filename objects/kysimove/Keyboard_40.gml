@@ -16,5 +16,5 @@ speed = 3;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "kysi_movedown"
 /// @DnDSaveInfo : "spriteind" "kysi_movedown"
-sprite_index = kysi_movedown;
+sprite_index = dixuong_kysi;
 image_index += 0;

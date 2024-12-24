@@ -16,5 +16,5 @@ speed = 3;
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "moveleft_phapsu"
 /// @DnDSaveInfo : "spriteind" "moveleft_phapsu"
-sprite_index = moveleft_phapsu;
+sprite_index = sangtrai_phapsu;
 image_index += 0;
