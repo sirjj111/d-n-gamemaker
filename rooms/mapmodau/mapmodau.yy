@@ -82,7 +82,6 @@
     {"name":"inst_1C8AACCB","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_71D13367","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_731280D5","path":"rooms/mapmodau/mapmodau.yy",},
-    {"name":"inst_6C32BE6","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_3B872FC2","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_3F5FB6A1","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_BCAEE8","path":"rooms/mapmodau/mapmodau.yy",},
@@ -112,6 +111,7 @@
     {"name":"inst_5A1E58B1","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_3249066A","path":"rooms/mapmodau/mapmodau.yy",},
     {"name":"inst_7A1AC69B","path":"rooms/mapmodau/mapmodau.yy",},
+    {"name":"inst_6C32BE6","path":"rooms/mapmodau/mapmodau.yy",},
   ],
   "isDnd":false,
   "layers":[

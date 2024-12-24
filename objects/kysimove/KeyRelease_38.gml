@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 745A40F3
 /// @DnDArgument : "spriteind" "kysi_up"
 /// @DnDSaveInfo : "spriteind" "kysi_up"
-sprite_index = kysi_up;
+sprite_index = len_kysi;
 image_index = 0;

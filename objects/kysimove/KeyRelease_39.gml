@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 06721C52
 /// @DnDArgument : "spriteind" "kysi_right"
 /// @DnDSaveInfo : "spriteind" "kysi_right"
-sprite_index = kysi_right;
+sprite_index = phai_kysi;
 image_index = 0;

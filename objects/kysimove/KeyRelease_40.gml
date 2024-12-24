@@ -14,5 +14,5 @@ speed = 0;
 /// @DnDHash : 4D30E0E1
 /// @DnDArgument : "spriteind" "kysi_down"
 /// @DnDSaveInfo : "spriteind" "kysi_down"
-sprite_index = kysi_down;
+sprite_index = xuong_knight;
 image_index = 0;

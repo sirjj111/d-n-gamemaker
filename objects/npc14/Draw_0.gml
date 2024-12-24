@@ -13,5 +13,5 @@ if (is_talking) {
     
     // Vẽ văn bản trong hộp thoại
     draw_set_color(c_white);
-    draw_text(text_x + 10, text_y + 10, "Chào bạn! Làm gì giúp bạn?");
+    draw_text(text_x + 10, text_y + 10, "Chao ban! toi giup duoc gi cho ban?");
 }

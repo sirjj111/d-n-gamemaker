@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite107",
-    "path":"sprites/Sprite107/Sprite107.yy",
+    "name":"khungchonhanvat",
+    "path":"sprites/khungchonhanvat/khungchonhanvat.yy",
   },
   "spriteMaskId":null,
   "visible":true,
