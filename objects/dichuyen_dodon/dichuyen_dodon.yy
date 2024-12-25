@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"kysimove",
+  "%Name":"dichuyen_dodon",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -12,17 +12,20 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":10,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall1","path":"objects/obj_wall1/obj_wall1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object36","path":"objects/Object36/Object36.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall2","path":"objects/obj_wall2/obj_wall2.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_wall3","path":"objects/obj_wall3/obj_wall3.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"kysimove",
+  "name":"dichuyen_dodon",
   "overriddenProperties":[],
   "parent":{
     "name":"player",
     "path":"folders/Objects/player.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_cha",
+    "path":"objects/obj_cha/obj_cha.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -41,8 +44,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"xuong_knight",
-    "path":"sprites/xuong_knight/xuong_knight.yy",
+    "name":"down_tanker",
+    "path":"sprites/down_tanker/down_tanker.yy",
   },
   "spriteMaskId":null,
   "visible":true,

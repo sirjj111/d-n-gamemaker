@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-// Trong sự kiện Create
 side_length = 64;
 center_x = 1007;
 center_y = 432;

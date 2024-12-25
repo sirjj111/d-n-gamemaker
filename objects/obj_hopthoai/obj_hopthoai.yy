@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object36",
+  "%Name":"obj_hopthoai",
   "eventList":[],
   "managed":true,
-  "name":"Object36",
+  "name":"obj_hopthoai",
   "overriddenProperties":[],
   "parent":{
-    "name":"block",
-    "path":"folders/Objects/block.yy",
+    "name":"hopthoai",
+    "path":"folders/Objects/hopthoai.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_wall2",
-    "path":"sprites/spr_wall2/spr_wall2.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
