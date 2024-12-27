@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cha",
+  "%Name":"obj_batdau",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cha",
+  "name":"obj_batdau",
   "overriddenProperties":[],
   "parent":{
-    "name":"player",
-    "path":"folders/Objects/player.yy",
+    "name":"thaotac",
+    "path":"folders/Objects/thaotac.yy",
   },
   "parentObjectId":null,
   "persistent":false,
