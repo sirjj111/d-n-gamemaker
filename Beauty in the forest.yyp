@@ -59,7 +59,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.11.0.179",
   },
   "name":"Beauty in the forest",
   "resources":[
@@ -77,6 +77,7 @@
     {"id":{"name":"npc11","path":"objects/npc11/npc11.yy",},},
     {"id":{"name":"npc12","path":"objects/npc12/npc12.yy",},},
     {"id":{"name":"npc13","path":"objects/npc13/npc13.yy",},},
+    {"id":{"name":"npc14","path":"objects/npc14/npc14.yy",},},
     {"id":{"name":"npc15","path":"objects/npc15/npc15.yy",},},
     {"id":{"name":"npc2","path":"objects/npc2/npc2.yy",},},
     {"id":{"name":"npc3","path":"objects/npc3/npc3.yy",},},
