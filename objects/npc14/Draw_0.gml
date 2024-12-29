@@ -1,4 +1,4 @@
-// Vẽ hội thoại và lựa chọn
+ // Vẽ hội thoại và lựa chọn
 if (is_talking) {
     // Vẽ khung câu thoại
     var text_width = string_width(dialogue_steps[dialogue_step]);
