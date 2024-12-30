@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hopthoai",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_gioithieu",
+  "eventList":[],
   "managed":true,
-  "name":"obj_hopthoai",
+  "name":"Obj_gioithieu",
   "overriddenProperties":[],
   "parent":{
     "name":"hopthoai",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_gioithieu",
-    "path":"sprites/Spr_gioithieu/Spr_gioithieu.yy",
+    "name":"Spr_maphoithoai",
+    "path":"sprites/Spr_maphoithoai/Spr_maphoithoai.yy",
   },
   "spriteMaskId":null,
   "visible":true,
