@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite113",
-    "path":"sprites/Sprite113/Sprite113.yy",
+    "name":"Spr_thoat",
+    "path":"sprites/Spr_thoat/Spr_thoat.yy",
   },
   "spriteMaskId":null,
   "visible":true,
