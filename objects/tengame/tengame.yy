@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite110",
-    "path":"sprites/Sprite110/Sprite110.yy",
+    "name":"Spr_tengame",
+    "path":"sprites/Spr_tengame/Spr_tengame.yy",
   },
   "spriteMaskId":null,
   "visible":true,

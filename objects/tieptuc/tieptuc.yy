@@ -3,6 +3,7 @@
   "%Name":"tieptuc",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"tieptuc",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite112",
-    "path":"sprites/Sprite112/Sprite112.yy",
+    "name":"Spr_tieptuc",
+    "path":"sprites/Spr_tieptuc/Spr_tieptuc.yy",
   },
   "spriteMaskId":null,
   "visible":true,

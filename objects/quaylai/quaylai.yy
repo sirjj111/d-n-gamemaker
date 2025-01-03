@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite119",
-    "path":"sprites/Sprite119/Sprite119.yy",
+    "name":"Spr_quaylai",
+    "path":"sprites/Spr_quaylai/Spr_quaylai.yy",
   },
   "spriteMaskId":null,
   "visible":true,

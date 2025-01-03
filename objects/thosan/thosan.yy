@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite116",
-    "path":"sprites/Sprite116/Sprite116.yy",
+    "name":"Spr_nv2",
+    "path":"sprites/Spr_nv2/Spr_nv2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

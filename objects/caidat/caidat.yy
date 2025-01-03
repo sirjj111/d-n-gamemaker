@@ -3,6 +3,7 @@
   "%Name":"caidat",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"caidat",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite114",
-    "path":"sprites/Sprite114/Sprite114.yy",
+    "name":"Spr_caidat",
+    "path":"sprites/Spr_caidat/Spr_caidat.yy",
   },
   "spriteMaskId":null,
   "visible":true,
