@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Spr_maphoithoai",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":844,
   "bbox_left":0,
   "bbox_right":1499,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":1,
+  "height":845,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"db007334-ad7c-4ce5-929d-caad685ce3f5","blendMode":0,"displayName":"default","isLocked":false,"name":"db007334-ad7c-4ce5-929d-caad685ce3f5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
