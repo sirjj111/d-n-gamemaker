@@ -27,3 +27,4 @@ if (!is_talking && distance < 50 && keyboard_check_pressed(vk_space)) {
 if (keyboard_check_pressed(vk_enter)) {
     is_talking = false;  // Kết thúc trò chuyện và cho phép di chuyển
 }
+
