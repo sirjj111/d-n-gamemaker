@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_batdau",
+  "%Name":"obj_chuyenmap32",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_cha","path":"objects/obj_cha/obj_cha.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_batdau",
+  "name":"obj_chuyenmap32",
   "overriddenProperties":[],
   "parent":{
-    "name":"thaotac",
-    "path":"folders/Objects/thaotac.yy",
+    "name":"chuyenmap",
+    "path":"folders/Objects/chuyenmap.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_chuyenmap",
+    "path":"sprites/sp_chuyenmap/sp_chuyenmap.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
