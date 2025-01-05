@@ -4,7 +4,7 @@ if (battle_ongoing && !waiting_for_turn) {
         if (keyboard_check_pressed(vk_space)) {
             // Gây sát thương ngẫu nhiên
             var damage = irandom_range(5, 15) - global.enemy_stats.defense;
-            damage = max(damage, 100); // Đảm bảo sát thương tối thiểu là 1
+            damage = max(damage, 10); // Đảm bảo sát thương tối thiểu là 1
             global.enemy_stats.hp -= damage;
             show_message("Bạn tấn công! Gây " + string(damage) + " sát thương.");
 
@@ -22,7 +22,7 @@ if (battle_ongoing && !waiting_for_turn) {
     } else if (battle_turn == "enemy") {
         // Quái tấn công
         var damage = irandom_range(5, 15) - global.player_stats.defense;
-        damage = max(damage, 1); // Đảm bảo sát thương tối thiểu là 1
+        damage = max(damage, 5); // Đảm bảo sát thương tối thiểu là 1
         global.player_stats.hp -= damage;
         show_message("Quái tấn công! Gây " + string(damage) + " sát thương.");
 
