@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_menu_item",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_caidat_chonnhanvat",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_menu_item",
+  "name":"Obj_caidat_chonnhanvat",
   "overriddenProperties":[],
   "parent":{
     "name":"hopthoai",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_menu_item",
-    "path":"sprites/Spr_menu_item/Spr_menu_item.yy",
+    "name":"Spr_caidat_chonchedo",
+    "path":"sprites/Spr_caidat_chonchedo/Spr_caidat_chonchedo.yy",
   },
   "spriteMaskId":null,
   "visible":true,
