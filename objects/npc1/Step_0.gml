@@ -25,3 +25,8 @@ if (distance < 150) {
     // quay lại
     move_towards_point(target_x, target_y, 1);
 }
+// Trong sự kiện Step của quái vật trong map ngoài
+if (global.enemy_destroyed) {
+    instance_destroy();  // Xóa quái vật này khỏi map ngoài
+}
+ 

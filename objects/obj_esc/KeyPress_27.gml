@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.vitri_x=693;
-global.vitri_y=710;
-room_goto(mapgioithieu);
+global.vitri_x=obj_cha.x;
+global.vitri_y=obj_cha.y;
+room_goto(map_menuchucnang)
