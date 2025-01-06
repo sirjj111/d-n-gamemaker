@@ -13,7 +13,8 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"a4575c0c-ca58-4389-b8a2-a6d0dad11fb9","name":"a4575c0c-ca58-4389-b8a2-a6d0dad11fb9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d6cafabb-2f70-4081-b6be-893890865371","name":"d6cafabb-2f70-4081-b6be-893890865371","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"03b4c87b-ce5b-43a4-b23f-6e4057b8626d","name":"03b4c87b-ce5b-43a4-b23f-6e4057b8626d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7d904de8-d1a4-4d91-9f84-f07fed6356c9","name":"7d904de8-d1a4-4d91-9f84-f07fed6356c9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -52,7 +53,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -75,8 +76,11 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a4575c0c-ca58-4389-b8a2-a6d0dad11fb9","path":"sprites/Spr_gioithieu/Spr_gioithieu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9e5ee07e-ed12-48e1-b238-85c09650512c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6cafabb-2f70-4081-b6be-893890865371","path":"sprites/Spr_gioithieu/Spr_gioithieu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"177b6a0f-f3d2-4242-9432-4ceab441dbba","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"03b4c87b-ce5b-43a4-b23f-6e4057b8626d","path":"sprites/Spr_gioithieu/Spr_gioithieu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"42c7b7df-768a-42e1-b916-ece25c0ef078","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7d904de8-d1a4-4d91-9f84-f07fed6356c9","path":"sprites/Spr_gioithieu/Spr_gioithieu.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"846413ee-bc6e-4eda-aaf5-63d9c24a699f","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

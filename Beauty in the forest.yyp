@@ -63,7 +63,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Beauty in the forest",
   "resources":[
@@ -103,6 +103,7 @@
     {"id":{"name":"obj_chuyenmap42","path":"objects/obj_chuyenmap42/obj_chuyenmap42.yy",},},
     {"id":{"name":"obj_chuyenmap52","path":"objects/obj_chuyenmap52/obj_chuyenmap52.yy",},},
     {"id":{"name":"obj_chuyenmap56","path":"objects/obj_chuyenmap56/obj_chuyenmap56.yy",},},
+    {"id":{"name":"obj_esc","path":"objects/obj_esc/obj_esc.yy",},},
     {"id":{"name":"Obj_gioithieu","path":"objects/Obj_gioithieu/Obj_gioithieu.yy",},},
     {"id":{"name":"obj_hopthoai","path":"objects/obj_hopthoai/obj_hopthoai.yy",},},
     {"id":{"name":"obj_khoitao","path":"objects/obj_khoitao/obj_khoitao.yy",},},
