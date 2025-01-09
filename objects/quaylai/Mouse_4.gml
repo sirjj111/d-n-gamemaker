@@ -10,4 +10,4 @@ room_goto(manhinhdangnhap);
 /// @DnDHash : 082F0C5A
 /// @DnDArgument : "soundid" "Sou_backgroud"
 /// @DnDSaveInfo : "soundid" "Sou_backgroud"
-audio_stop_sound(Sou_backgroud);
+audio_stop_sound(Sou_nhacnen);

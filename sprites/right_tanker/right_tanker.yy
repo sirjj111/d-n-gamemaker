@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"tanker",
-    "path":"folders/Sprites/tanker.yy",
+    "name":"dausi",
+    "path":"folders/Sprites/dausi.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
