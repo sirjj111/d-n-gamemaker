@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"wall",
-    "path":"folders/Sprites/wall.yy",
+    "name":"tuongchan",
+    "path":"folders/Sprites/tuongchan.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
