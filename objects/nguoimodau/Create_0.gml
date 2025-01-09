@@ -4,16 +4,16 @@ selected_option = 0;            // Lựa chọn hiện tại của người chơ
 is_first_choice = true;         // Biến kiểm tra có phải là lựa chọn đầu tiên không
 // Các bước hội thoại
 dialogue_steps = [
-    "Chao ban, ban co the giup toi duoc khong?",
-	"toi la lam cu to hien nay toi dang khong co ny ban co the giup toi kiem duoc khong?"
+    "Cau muon di vao khu rung phia truoc a?",
+	"No rat nguy hiem, ban co chac chan muon di vao khong?",
 ];
 
 // Các lựa chọn cho người chơi
 dialogue_choices = [
-    "Co",
+    "Dung vay",
     "Khong"
 ];
 next_choices = [
-    "toi se giup ban",
-    "ke con me ban"
+    "Toi chac chan",
+    "Khong"
 ];

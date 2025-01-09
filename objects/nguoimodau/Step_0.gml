@@ -34,12 +34,10 @@ if (is_talking) {
 
         // Xác nhận lựa chọn bằng phím Enter
         if (keyboard_check_pressed(vk_enter)) {
-            if (selected_option == 0) { // Chọn "Có"
-                show_message("Bạn đã chọn có");
+            if (selected_option == 0) { 
                 dialogue_step = 1;  // Tiến đến câu tiếp theo nếu chọn "Có"
                 is_first_choice = false; // Ẩn lựa chọn ban đầu
-            } else if (selected_option == 1) { // Chọn "Không"
-                show_message("Bạn đã chọn không");
+            } else if (selected_option == 1) { 
                 dialogue_step = 2;  // Tiến đến câu tiếp theo nếu chọn "Không"
                 is_first_choice = false; // Ẩn lựa chọn ban đầu
                 is_talking = false; // Kết thúc trò chuyện
@@ -70,13 +68,11 @@ if (is_talking) {
 
         // Xác nhận lựa chọn bằng phím Enter
         if (keyboard_check_pressed(vk_enter)) {
-            if (selected_option == 0) { // Chọn "Đi dạo"
-                show_message("Bạn đã chọn giúp đỡ");
+            if (selected_option == 0) { 
                 // Tiến đến bước tiếp theo nếu chọn "Đi dạo"
                 dialogue_step = 3; 
                 is_talking = false; // Kết thúc trò chuyện sau khi chọn
-            } else if (selected_option == 1) { // Chọn "Tìm kiếm kho báu"
-                show_message("Bạn đã kệ con mẹ nó");
+            } else if (selected_option == 1) { 
                 // Tiến đến bước tiếp theo nếu chọn "Tìm kiếm kho báu"
                 dialogue_step = 4; 
                 is_talking = false; // Kết thúc trò chuyện sau khi chọn
